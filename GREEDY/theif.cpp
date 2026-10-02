@@ -23,5 +23,6 @@ int main(){
 
   }
   cout<<res[n-1]<<endl;
+  return 0;
 
 }
